@@ -9,7 +9,7 @@
 
 👀 I’m interested in __Quality Assurance__, and I look for new opportunities in that area :bulb:
 
-:date: I’m currently learning about GIT, Phyton, QA, PO, and a Quality assurance Academy in RUMOS. I'm sutying to the ISTQB Foundation Level.
+:date: I’m currently learning about GIT, Phyton, QA, PO, and a Quality assurance Academy in RUMOS. I'm studying to the ISTQB Foundation Level.
 
 📫 You can reach me to my email magda.rocha92@gmail or in Linkedin
 
