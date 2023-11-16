@@ -2,7 +2,8 @@
 
 ## Software Implementer :computer:
 
-![](https://komarev.com/ghpvc/?username=magdarochacolor=blue)
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=magdarocha&label=Profile%20views&color=0e75b6&style=flat" alt="magdarocha" />
+
 
 :raised_hand: Hello! My name is Magda Rocha. I'm a nurse who´s embrassing a new adventure! In April, 2023 I changed my career to IT! :computer:
 
