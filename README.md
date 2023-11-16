@@ -2,6 +2,8 @@
 
 ## Software Implementer :computer:
 
+![](https://komarev.com/ghpvc/?username=magdarochacolor=blue)
+
 :raised_hand: Hello! My name is Magda Rocha. I'm a nurse who´s embrassing a new adventure! In April, 2023 I changed my career to IT! :computer:
 
 👀 I’m interested in __Quality Assurance__, and I look for new opportunities in that area :bulb:
