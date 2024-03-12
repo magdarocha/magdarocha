@@ -11,7 +11,7 @@
 
 👀 I’m interested in __Quality Assurance__, and I look for new opportunities in that area :bulb:
 
-:date: I’m currently learning about GIT, Phyton, QA, PO, and a Quality assurance Academy in RUMOS. I'm studying to the ISTQB Foundation Level.
+:date: I’m currently learning about GIT, Phyton, QA, PO, and I'm finished the Quality Assurance Academy in RUMOS in February 2024. I'm studying to the ISTQB Foundation Level.
 
 <h3 align="left">Languages and Tools that I study:</h3> <br>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
