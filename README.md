@@ -1,6 +1,6 @@
 # Magda Rocha :blush:
 
-## Software Implementer :computer:
+## Quality Assurance Tester :computer:
 
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=magdarocha&label=Profile%20views&color=0e75b6&style=flat" alt="magdarocha" />
