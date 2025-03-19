@@ -18,6 +18,7 @@ I'm ISTQB Foundation Level certified.
 <h3 align="left">Languages and Tools that I studied:</h3> <br>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="center" alt="magdarocha-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+<img align="center" alt="magdarocha-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <br>
 </br>
