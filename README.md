@@ -9,11 +9,13 @@
 
 :raised_hand: Hello! My name is Magda Rocha. I'm a nurse who´s embrassing a new adventure! In April, 2023 I changed my career to IT! :computer:
 
-👀 I’m interested in __Quality Assurance__, and I look for new opportunities in that area :bulb:
+👀 I’m  __Quality Assurance Engineer__ :bulb:
 
-:date: I’m currently learning about GIT, Phyton, QA, PO, and I'm finished the Quality Assurance Academy in RUMOS in February 2024. I'm studying to the ISTQB Foundation Level.
+:date: I’m currently learning about Cypress, JavaScrip and Playwright.
+I'm finished the Quality Assurance Academy in RUMOS in February 2024. 
+I'm ISTQB Foundation Level certified.
 
-<h3 align="left">Languages and Tools that I study:</h3> <br>
+<h3 align="left">Languages and Tools that I studied:</h3> <br>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="center" alt="magdarocha-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 
